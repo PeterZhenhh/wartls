@@ -1,0 +1,2 @@
+D:\Эмуляторы Warface\OnyxTLS\OnyxServer\OnyxServer\obj\Debug\OnyxServer.csprojAssemblyReference.cache
+D:\Эмуляторы Warface\OnyxTLS\OnyxServer\OnyxServer\obj\Debug\OnyxServer.csproj.CoreCompileInputs.cache
